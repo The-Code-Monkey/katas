@@ -1,0 +1,20 @@
+[
+  {
+    "name": "hotelone",
+    "starRating": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ornare metus nibh, in ullamcorper metus vehicula ac. Donec gravida nibh nunc, vel semper sem pellentesque non. Nam a imperdiet nibh. Suspendisse ut purus sed ante pellentesque lacinia id eget magna. Etiam a facilisis turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper tristique volutpat. Nunc sollicitudin auctor magna, eget facilisis tortor vulputate at. Mauris laoreet ultrices ante vitae bibendum. Quisque ac lorem placerat, pellentesque sem at, vulputate lorem. Pellentesque ut hendrerit purus. Nullam malesuada cursus sapien, ut tempor ante blandit quis. Quisque vitae pulvinar sem, eget placerat ipsum. Ut vel sapien ligula. Donec eget velit justo.",
+    "facilities": ["car park", "pool"]
+  },
+  {
+    "name": "hoteltwo",
+    "starRating": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ornare metus nibh, in ullamcorper metus vehicula ac. Donec gravida nibh nunc, vel semper sem pellentesque non. Nam a imperdiet nibh. Suspendisse ut purus sed ante pellentesque lacinia id eget magna. Etiam a facilisis turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper tristique volutpat. Nunc sollicitudin auctor magna, eget facilisis tortor vulputate at. Mauris laoreet ultrices ante vitae bibendum. Quisque ac lorem placerat, pellentesque sem at, vulputate lorem. Pellentesque ut hendrerit purus. Nullam malesuada cursus sapien, ut tempor ante blandit quis. Quisque vitae pulvinar sem, eget placerat ipsum. Ut vel sapien ligula. Donec eget velit justo.",
+    "facilities": ["car park", "gym"]
+  },
+  {
+    "name": "hotelthree",
+    "starRating": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ornare metus nibh, in ullamcorper metus vehicula ac. Donec gravida nibh nunc, vel semper sem pellentesque non. Nam a imperdiet nibh. Suspendisse ut purus sed ante pellentesque lacinia id eget magna. Etiam a facilisis turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper tristique volutpat. Nunc sollicitudin auctor magna, eget facilisis tortor vulputate at. Mauris laoreet ultrices ante vitae bibendum. Quisque ac lorem placerat, pellentesque sem at, vulputate lorem. Pellentesque ut hendrerit purus. Nullam malesuada cursus sapien, ut tempor ante blandit quis. Quisque vitae pulvinar sem, eget placerat ipsum. Ut vel sapien ligula. Donec eget velit justo.",
+    "facilities": []
+  }
+]
